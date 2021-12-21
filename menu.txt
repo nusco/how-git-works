@@ -10,3 +10,4 @@ Beef
 Chilli
 Soup
 Green Beans
+Rice
